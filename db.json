@@ -1,0 +1,156 @@
+{
+  "places": [
+    {
+      "id": "80b2a737-7992-4d91-8c25-4e5c1d9282e2",
+      "category": "san francisco",
+      "image": "https://i.ibb.co/rbQ6ZZt/san-1.webp",
+      "name": "image-san-1"
+    },
+    {
+      "id": "b9b776f6-54da-4f35-8b5a-674edebc7f6e",
+      "category": "san francisco",
+      "image": "https://i.ibb.co/1Ls7mCg/san-2.webp",
+      "name": "image-san-2"
+    },
+    {
+      "id": "b9e8e510-ef9c-4e7c-b014-c4f0d09abfc3",
+      "category": "san francisco",
+      "image": "https://i.ibb.co/KwS0QKz/san-3.webp",
+      "name": "image-san-3"
+    },
+    {
+      "id": "a53b5a4e-4a26-4fb5-b6a5-58267b5cfb88",
+      "category": "san francisco",
+      "image": "https://i.ibb.co/Q9z25np/san-4.webp",
+      "name": "image-san-4"
+    },
+    {
+      "id": "7d1d3a55-1f61-4459-8d47-01adbf5e1b2b",
+      "category": "san francisco",
+      "image": "https://i.ibb.co/cJW3Ry7/san-5.webp",
+      "name": "image-san-5"
+    },
+    {
+      "id": "a8f7a5ed-9020-4c41-9c8a-51fe43e88b79",
+      "category": "san francisco",
+      "image": "https://i.ibb.co/MV34HLj/san-6.webp",
+      "name": "image-san-6"
+    },
+    {
+      "id": "918ac550-4b9e-41ff-89c5-0a83b3703d1b",
+      "category": "ha long bay",
+      "image": "https://i.ibb.co/FxYFm40/ha-long-1.webp",
+      "name": "image-long-1"
+    },
+    {
+      "id": "a1ef96e0-8a76-44b2-8a41-03ff3f94b2d2",
+      "category": "ha long bay",
+      "image": "https://i.ibb.co/K9ww8ZK/ha-long-2.webp",
+      "name": "image-long-2"
+    },
+    {
+      "id": "c9f7ea42-3e08-4d8d-ae5d-1245ed64c56d",
+      "category": "ha long bay",
+      "image": "https://i.ibb.co/p2FRK4F/ha-long-3.webp",
+      "name": "image-long-3"
+    },
+    {
+      "id": "e12c94ab-7d24-47c3-b8b4-6ae59b4a07c4",
+      "category": "ha long bay",
+      "image": "https://i.ibb.co/z6Pp665/ha-long-4.webp",
+      "name": "image-long-4"
+    },
+    {
+      "id": "11eac345-d42a-4e78-9f67-4b09bbd64f10",
+      "category": "eng land",
+      "image": "https://i.ibb.co/6JXGhWx/eng-1.webp",
+      "name": "image-eng-1"
+    },
+    {
+      "id": "ffddf9ba-bf5a-463c-b49b-bb2549a1b28b",
+      "category": "eng land",
+      "image": "https://i.ibb.co/P6t0gpR/eng-2.webp",
+      "name": "image-eng-2"
+    },
+    {
+      "id": "bd58f7eb-79a4-4607-9f0f-34a3c83cf432",
+      "category": "eng land",
+      "image": "https://i.ibb.co/QNMCVDw/eng-3.webp",
+      "name": "image-eng-3"
+    },
+    {
+      "id": "84abdef8-47e8-4e8f-91f7-07b1efab2c14",
+      "category": "eng land",
+      "image": "https://i.ibb.co/XpH9CQv/eng-4.webp",
+      "name": "image-eng-4"
+    },
+    {
+      "id": "194d20cb-c30f-4f7d-8918-77c340e6b112",
+      "category": "World",
+      "image": "https://i.ibb.co/DfCph2j/all-1.webp",
+      "name": "image-all-1"
+    },
+    {
+      "id": "a54fd75f-d009-4867-86b2-607a1c4d17b4",
+      "category": "World",
+      "image": "https://i.ibb.co/N3YgnF4/all-2.webp",
+      "name": "image-all-2"
+    },
+    {
+      "id": "d5b3a675-53d4-4d26-b3d3-41ed5a4b6cfc",
+      "category": "World",
+      "image": "https://i.ibb.co/Tv8bW4j/all-3.webp",
+      "name": "image-all-3"
+    },
+    {
+      "id": "35ef063b-7d54-40aa-b2d1-6327b6bc14ad",
+      "category": "World",
+      "image": "https://i.ibb.co/R7kjXYP/all-4.webp",
+      "name": "image-all-4"
+    }
+  ],
+  "products": [
+    {
+      "id": "84abdef8-48e8-4e8f-91f7-16b1ef98b2c14",
+      "name": "APP MAINTENANCE",
+      "image": "https://i.ibb.co/p1VbTN1/product-1.webp",
+      "users": [
+        "Lida Morrison",
+        "Nettie Burke"
+      ],
+      "view": 134349
+    },
+    {
+      "id": "92fb3b84-8b7f-4e38-bb96-7a32db01d379",
+      "name": "FTA KEYS",
+      "image": "https://i.ibb.co/YQgP9NT/product-2.webp",
+      "users": [
+        "Ivan Alexander",
+        "Steven Soto",
+        "Clifford Hammond"
+      ],
+      "view": 91312
+    },
+    {
+      "id": "ca4f4f8b-6b42-4ef0-92a4-94b4f6212a7c",
+      "name": "SMART WATCH",
+      "image": "https://i.ibb.co/tB7CgMv/product-3.webp",
+      "users": [
+        "Trevor James",
+        "Carl Stevenson"
+      ],
+      "view": 95117
+    },
+    {
+      "id": "f4d9a3d8-6e18-46fc-8d94-0be7a3d3f5a4",
+      "name": "WATCH APPS",
+      "image": "https://i.ibb.co/r0Pgp9y/product-4.webp",
+      "users": [
+        "Glen Snyder",
+        "Andrew Goodwin",
+        "Lida Morrison"
+      ],
+      "view": 842781
+    }
+  ]
+}
